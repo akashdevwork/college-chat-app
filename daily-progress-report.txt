@@ -1,0 +1,5 @@
+Date - 01/01/2026
+
+Setup Firebase
+  Setup VS Code
+  Install Dependencies
